@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 style="color:#4b0082;">🖤 Noli's Obsessed 💜</h1>
+<h1 style="color:#4b0082;"> Noli's Obsessed </h1>
 
 </div>
 
@@ -26,7 +26,7 @@ Feel free to sit near me / hug me / hide behind me I'm almost always AFK, so whi
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6a0dad&height=3"/>
 
-<h2 style="color:#4b0082;">💜 Fandoms I Like 💜</h2>
+<h2 style="color:#4b0082;"> Fandoms I Like </h2>
 
 <p style="color:#d9b3ff;">
 
