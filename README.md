@@ -4,8 +4,6 @@
 
 <br>
 
-<img src="https://i.imgur.com/8Km9tLL.png" width="300"/>
-
 <h1 style="color:#4b0082;">🖤 Noli's Obsessed 💜</h1>
 
 </div>
@@ -45,8 +43,6 @@ Forsaken,Country Humans,S.E.W.H,Cookie Run...etc
 <img src="https://media.tenor.com/2roX3uxz_68AAAAC/purple-aesthetic.gif" width="250"/>
 
 <br><br>
-
-<a href="https://youtu.be/dQw4w9WgXcQ">🎧 Play Music</a>
 
 </div>
 
